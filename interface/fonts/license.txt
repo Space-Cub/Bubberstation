@@ -4,6 +4,18 @@ Grand9K Pixel created by Jayvee Enaguas. Licensed under Creative Commons Attribu
 Pixellari created by Zacchary Dempsey-Plante. Website indicates free for commercial use.
 (https://www.dafont.com/pixellari.font?fpp=200)
 
+Modified version of Grand9K Pixel created by Bluemoon-Labs.
+(https://github.com/BlueMoon-Labs/WhiteMoon-Station/blob/master/interface/fonts/Grand9K_Pixel_modif.ttf)
+
+Modified version of Pixellari created by BlueMoon-Labs.
+(https://github.com/BlueMoon-Labs/WhiteMoon-Station/blob/master/interface/fonts/Pixellari_modif.ttf)
+
+Cyrillic version of SpessFont created by Lyutsikkk
+(https://github.com/Lyutsikkk/Andromeda-13/blob/master/interface/fonts/SpessFontRus.ttf)
+
+Cyrillic version of TinyUnicode created by Lyutsikkk
+(https://github.com/Lyutsikkk/Andromeda-13/blob/master/interface/fonts/TinyUnicodeRus.ttf)
+
 Spess Font created by MTandi (discord) for /tg/station.
 
 Selawik created by Microsoft. License allows free embedding in commercial software. (https://github.com/microsoft/Selawik)
